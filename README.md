@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Astro](https://astro.build) Blog Template
 
 An opinionated and neat blog template built with [Astro](https://astro.build). The theme originates from [hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo). Check out the ✨ [Live Demo](https://astro-blog-zozo.pages.dev/) ✨.
@@ -105,3 +106,7 @@ Issues and PRs are welcome!
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
 - [ricora/alg.tus-ricora.com](https://github.com/ricora/alg.tus-ricora.com)
 - [one-aalam/astro-ink](https://github.com/one-aalam/astro-ink)
+=======
+# nurserywebsite
+an official nursery website located in Leiceister
+>>>>>>> 03d32406e35c5daebca6f08656d4b562e1cd9832
